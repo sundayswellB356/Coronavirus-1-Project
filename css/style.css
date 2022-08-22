@@ -4,7 +4,7 @@
 
     *{
     margin:0;
-     padding:o;
+    padding:o;
     border:none;
     }
 
@@ -12,4 +12,9 @@
         font-family:Roboto, sans-serif;
         font-weight:300;
     }
+
+    #logo{
+        float:left;
+        font-size: 280%;
+        }
 
